@@ -3,7 +3,7 @@
 ## Course information
 
 - Links to lecture slides, recordings, and tutorial notebooks will be posted on [Eilam's course webpage](https://www.weizmann.ac.il/particle/Gross/ml-course-2025-weissman-auditorum-thursdays)
-- Communication will happen on the [Slack channel](https://join.slack.com/t/weizmannmlcourse2025/shared_invite/zt-3098ya2jn-HedToLkYnQcmXvnRrhogTw)
+- Communication will happen on the [Slack channel](https://join.slack.com/t/weizmannmlcourse2025/shared_invite/zt-32q6zq775-DwsZVHAEqIYgYEKHkfu6cg)
 
 ## Tools
 
